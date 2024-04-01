@@ -7,18 +7,13 @@ A live video feed that scans your face. Prints out you're gender, age, race, &am
 ### Installation
 ###### It's too easy
 
-1. Download requirments.txt
-```
-pip3 install -r requirements.txt
-```
-2. Change the agenda
-```
-python3 tkinter_sms.py
-```
-3. Send the message!
-```
-python3 Main.py
-```
+1. Download the .zip from @Releases
+
+2. Un-Zip that ting
+
+3. Run the installer
+
+4. Enjoy the program!
 
 ---
 
