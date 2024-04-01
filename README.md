@@ -26,6 +26,8 @@ A live video feed that scans your face. Prints out you're gender, age, race, &am
 
 #### :mailbox: How to reach me: <img src="https://user-images.githubusercontent.com/109172537/209095400-8f9c465d-914b-4303-919e-4f449469b223.png" width="20"> _Londo. 
 
+---
+
 ![Relese](https://img.shields.io/github/v/release/Londopy/Live_Video_Feed_Facial_Recognition) 
 ![Size](https://img.shields.io/github/languages/code-size/Londopy/Live_Video_Feed_Facial_Recognition) 
 ![Files](https://img.shields.io/github/directory-file-count/Londopy/Live_Video_Feed_Facial_Recognition) 
